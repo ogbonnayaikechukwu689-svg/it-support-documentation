@@ -17,6 +17,7 @@ A collection of real-world IT support cases, troubleshooting steps and solutions
 | Certificate | Issuer | Date | File |
 |---|---|---|---|
 | Technical Support Fundamentals | Google (Coursera) | June 2026 | [View Certificate](certifications/Technical-Support-Fundamentals-Google-2026.pdf) |
+| Introduction to Cybersecurity | Cisco | June 2026 | [View Certificate](certifications/Intro-to-Cybersecurity-Cisco-2026.pdf) |
 
 ---
 
