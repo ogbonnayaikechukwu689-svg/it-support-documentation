@@ -9,6 +9,7 @@ A collection of real-world IT support cases, troubleshooting steps and solutions
 | Case | Description | File |
 |---|---|---|
 | HP Boot Device Not Found (Error 3F0) | Resolved UEFI vs Legacy boot mode mismatch on HP laptop | [View Case](HP-Boot-Device-Not-Found-3F0.md) |
+| Unwanted Apps at Startup (Notion & Edge) | Disabled unnecessary startup programs via Task Manager | [View Case](Windows-Startup-Apps-Notion-Edge.md) |
 
 ---
 
